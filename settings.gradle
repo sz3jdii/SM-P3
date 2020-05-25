@@ -1,0 +1,2 @@
+rootProject.name='SM-P3'
+include ':app'
